@@ -1,8 +1,5 @@
-# This file should be placed in your home directory
-
-#autoloaders:
-  # Namespace => path to your libs
-#  ProjectEight: /Users/projecteight/PhpStormProjects/projecteight-magerun/src
+autoloaders:
+  ProjectEight: %module%/src
 
 commands:
   customCommands:
